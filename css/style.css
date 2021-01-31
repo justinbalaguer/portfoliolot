@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #ddd;
+}
+
+main {
+  margin: 2em 0 2em 0;
+}
+
+#mortal {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main #mortal .mortal-wrapper {
+  padding: 2em;
+  border-radius: 10px;
+  background: #e5e5e5;
+  text-align: center;
+  box-shadow: 10px 10px 15px #999,
+    -10px -10px 15px #fff;
+  flex: 1;
+  margin: 1em;
+}
+
+.socmed {
+  font-size: 2em;
+}
+
+.socmed .github {
+  color: #211F1F;
+}
+
+.socmed .linkedin {
+  color: #0e76a8 ;
+}
+
+.socmed .facebook {
+  color: #4267B2;
+}
+
+.socmed .twitter {
+  color: #0084b4;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 1em;
+  background-color: #E39F9F;
+}
