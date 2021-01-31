@@ -17,7 +17,7 @@ Make a pull request to this repository (list.json) with your basic information, 
 ```
 
 ### NOTE
-<small>Do not forget to add a comma, make sure the json format is correct. 🤙</small>
+<sup>Do not forget to add a comma, make sure the json format is correct. 🤙</sup>
 
 ### WHY CREATE THIS?
-<small>Why not? Also, I could've made this automated and without checking every single pull request, but I want others specially new coders to start their/your contribution. 😊</small>
+<sup>Why not? Also, I could've made this automated and without checking every single pull request, but I want others specially new coders to start their/your contribution. 😊</sup>
