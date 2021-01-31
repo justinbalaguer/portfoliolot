@@ -18,6 +18,7 @@ Make a pull request to this repository (list.json) with your basic information, 
 
 ### NOTE
 <sup>Do not forget to add a comma, make sure the json format is correct. 🤙</sup>
+<sup>It doesn't matter where you put/position your object. The data will be randomized every visit/refresh. 👌</sup>
 
 ### WHY CREATE THIS?
 <sup>Why not? Also, I could've made this automated and without checking every single pull request, but I want others specially new coders to start their/your contribution. 😊</sup>
